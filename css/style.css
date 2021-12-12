@@ -1,0 +1,21 @@
+.img-container {
+    position: relative;
+    top: 150px;
+    left: 780px;
+    width: 330px;
+    height: 360px;
+    background-image: url("https://res.cloudinary.com/dhrebmsig/image/upload/v1639291334/img-MP/git_ury9ea.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 330px 330px;
+}
+
+h1 {
+    position: relative;
+    top: 100px;
+    left: 820px;
+    font-size: 3.2rem;
+    font-weight: bold;
+    line-height: 2.6rem;
+    color: #ffffff;
+  }
